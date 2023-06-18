@@ -1,0 +1,17 @@
+p{
+    font-size: 64px;
+    font: helvetica;
+}
+table{
+    border: 1px;
+    border-color: lightpink;
+}
+a{
+ text-decoration: none;
+}
+ul{
+    text-decoration-color: aquamarine;
+}
+body{
+    background-color: deeppink;
+}
